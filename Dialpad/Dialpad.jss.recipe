@@ -26,11 +26,13 @@
 		<string>Dialpad offers a secure, enterprise cloud phone system, business VoIP, toll free numbers, cloud PBX &amp; integrations with Google Apps for Work &amp; Office 365.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
+		<key>pkg_path</key>
+		<string></string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>eclears.pkg.Dialpad</string>
+	<string>com.eclears.recipes.pkg.Dialpad</string>
 	<key>Process</key>
 	<array>
 		<dict>

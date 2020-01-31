@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Dialpad and creates a package.</string>
 	<key>Identifier</key>
-	<string>eclears.pkg.Dialpad</string>
+	<string>com.eclears.recipes.pkg.Dialpad</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>eclears.download.Dialpad</string>
+	<string>com.eclears.recipes.download.Dialpad</string>
 	<key>Process</key>
 	<array>
 		<dict>
